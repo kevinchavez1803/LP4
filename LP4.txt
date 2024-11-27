@@ -1,2 +1,1 @@
-Esta la rama PRINCIPAL llamada main creada por Kevin Chavez
-Y modificada por David Yépez subiendo un archivo 
+Esta es la Rama 1  llamada Rama_v1 creada por David Yépez
